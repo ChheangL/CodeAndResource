@@ -5,8 +5,6 @@ import numpy as np
 def false_double_side_check(temp_array,a):
     v1 = temp_array[a-1] - temp_array[a-3]
     v2 = temp_array[a-2] - temp_array[a-4]
-    if v1[1]==0: v1[1]=1
-    if v2[1]==0: v2[1]=1
     product = (v1[0]/v1[1])*(v2[0]/v2[1])
     if product <= 0:
         return np.array([0.0,0.0])
