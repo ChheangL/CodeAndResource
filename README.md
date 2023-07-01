@@ -9,10 +9,11 @@ Application concept also here in <main.py> which use <controll_angle_function.py
  
 *<MAfilter.py> is Moving average filter that we are using for simple filtering the angle, so there won't be any sharp changes.
 
+🍖Demo
 
+https://github.com/ChheangL/CodeAndResource/assets/90783994/5019524c-f61b-4e1b-8c4a-7ea0430ae3e6
 
-<h2>Demo</h2>
-https://github.com/ChheangL/CodeAndResource/assets/90783994/62a22923-58e9-4b9f-9ea1-f815b64a3d1c
+🌯Debuging through static images
 
-<h2>Debuging through static images</h2>
-![image](https://github.com/ChheangL/CodeAndResource/assets/90783994/7f082912-ac87-4d05-8053-3b93d16d3288)
+![image](https://github.com/ChheangL/CodeAndResource/assets/90783994/9293b2f4-307b-4d21-99d9-ed2303380a67)
+
